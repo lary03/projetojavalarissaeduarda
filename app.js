@@ -1,5 +1,5 @@
 alert('bem vindo ao terror da programação');
-let numeroSecreto = 5;
+let numeroSecreto = 7;
 console.log('numeroSecreto')
 let chute = prompt('Escolha um número entre 0 e 100');
 
